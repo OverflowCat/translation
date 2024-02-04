@@ -43,6 +43,10 @@
       },
       "SYNCING": {
         "TITLE": "同期しています"
+      },
+      "PRIVACY": {
+        "TITLE": "プライバシー",
+        "KEYWORDS": "プライバシー"
       }
     },
     "FLASHCARDS": {
